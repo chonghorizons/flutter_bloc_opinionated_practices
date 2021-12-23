@@ -12,10 +12,10 @@ Go to the [Wiki](https://github.com/chonghorizons/flutter_bloc_opinionated_pract
 Each practice should include
 1. The practices
 2. Rationale
-3. Minimal Example
-4. Advantages
-5. Disadvantages
-6. Votes (optional) - who agrees or disagrees.
+3. Examples
+5. Advantages
+6. Disadvantages
+7. Votes (optional) - who agrees or disagrees.
 
 ## Permissions
 The wiki is public write-access, so anyone can make a change. Changes are logged.
