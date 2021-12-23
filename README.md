@@ -7,7 +7,7 @@ Realted to https://github.com/felangel/bloc/ and https://bloclibrary.dev/#/
 This is a documentation-only wiki respository (no code to run). It provides an opinionated set of practices
 
 ## How to use
-Go to the [Wiki](https://github.com/chonghorizons/flutter_bloc_opinionated_practices/wiki) and read and edit opinionated recommended practices.
+Go to the [Wiki](https://github.com/chonghorizons/flutter_bloc_opinionated_practices/wiki/Opinionated-%22Recommended%22-Practices-for-flutter_bloc) and read and edit opinionated recommended practices.
 
 Each practice should include
 1. The practices
