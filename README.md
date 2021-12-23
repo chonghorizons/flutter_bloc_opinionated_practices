@@ -1,0 +1,2 @@
+# flutter_bloc_opinionated_practices
+Opinionated practices for using flutter_bloc
